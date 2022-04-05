@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+.home{
+  margin-right: 1100px;
+  margin-top: 20px;
+}
+
+.navbarmuseo{
+  margin-right: 70px;
+  margin-left: 70px;
+}
